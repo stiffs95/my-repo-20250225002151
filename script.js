@@ -2,5 +2,5 @@
     function greet() {
         alert('Hello from commit ' + commitNumber + '!');
     }
-    var commitNumber = 7;
+    var commitNumber = 8;
     
